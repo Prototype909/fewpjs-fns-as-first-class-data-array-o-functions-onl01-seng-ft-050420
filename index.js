@@ -23,7 +23,7 @@ function walkHome(dogName, dogBreed) {
   return `Walk home with ${dogName} the ${dogBreed}`
 }
 
-function unLeashDog(dogName, dogBreed) {
+function unleashDog(dogName, dogBreed) {
   console.log(`Unleash ${dogName} the ${dogBreed}`);
   return `unleash ${dogName} the ${dogBreed}`
 }
